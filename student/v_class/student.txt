@@ -1,0 +1,2 @@
+Student('Tom',23, 67)
+Student('Spike',25, 78)
